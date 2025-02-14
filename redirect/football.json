@@ -10,7 +10,8 @@
     "content": [
         {
             "title": "mancity vs newcatle",
-            "url": "mancity-newcatle"
+            "urlContent": "mancity-newcatle",
+            "urlRedirect":"https://nmq-web.github.io"
         }
     ]
 }
