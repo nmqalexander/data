@@ -1,64 +1,65 @@
 {
-    "logo": "https://yt3.googleusercontent.com/h1VmLS5-G5kIjrSjSxTwVdxA3FGtthgEICN0z5xQYgoA63RG6KWCY1mXgSNPirKK_DK0lI_hqw=s160-c-k-c0x00ffffff-no-rj",
-    "nav": [
+    "title": "Category",
+    "categorys": [
         {
             "id": "1",
-            "title": "Category",
-            "subNav": [
-                {
-                    "id": "1",
-                    "url": "category",
-                    "title": "Category"
-                }
-            ]
+            "categoryId": "category",
+            "title": "Category"
         }
     ],
-    "footer": {
-        "content": "Website chia sẻ các nội dung về lập trình, game, công nghệ,...",
-        "copyright": "©2025 NMQ Alexander"
-    },
-    "contacts": [
+    "blogs": [
         {
             "id": "1",
-            "title": "Youtube",
+            "url": "blog",
+            "categoryId": "category",
+            "title": "blog",
+            "thumbnail": null,
+            "description": "blog",
+            "keywords": "blog",
             "contents": [
                 {
                     "id": "1",
-                    "title": "NMQ Alexander",
-                    "url": "https://youtube.com/@nmqalexander"
+                    "h2": "Chào các bạn ",
+                    "h2P": "nội dung",
+                    "h3": "hi các bạn",
+                    "h3P": "nội dungssss",
+                    "h4": null,
+                    "h4P": null,
+                    "ytVideo": null,
+                    "redirectTitle": null,
+                    "redirect": null,
+                    "app": null
                 },
                 {
                     "id": "2",
-                    "title": "NMQ Gamingggg",
-                    "url": "https://youtube.com/@nmqgamingggg"
-                },
-                {
-                    "id": "3",
-                    "title": "NMQ Developer",
-                    "url": "https://youtube.com/@nmqdeverloper"
+                    "h2": "Chào các bạn ",
+                    "h2P": "nội dung",
+                    "h3": "hi các bạn",
+                    "h3P": "nội dungssss",
+                    "h4": null,
+                    "h4P": null,
+                    "ytVideo": null,
+                    "redirectTitle": null,
+                    "redirect": null,
+                    "app": null
                 }
-            ]
-        },
-        {
-            "id": "2",
-            "title": "Facebook",
-            "contents": [
+            ],
+            "secret": false,
+            "secretContents": [
                 {
                     "id": "1",
-                    "title": "NMQ Alexander",
-                    "url": "https://www.facebook.com/profile.php?id=61565424986124"
+                    "h2": "Chào các bạn ",
+                    "h2P": "nội dung",
+                    "h3": "hi các bạn",
+                    "h3P": "nội dungssss",
+                    "h4": null,
+                    "h4P": null,
+                    "ytVideo": null,
+                    "redirectTitle": null,
+                    "redirect": null,
+                    "app": null
                 }
             ]
         }
-    ],
-    "configSecretContents": {
-        "tutorialVideo": null,
-        "ytVideo": "",
-        "time1": "12:50",
-        "time2": "43:44",
-        "time3": "43:43",
-        "pass1": "123",
-        "pass2": "123",
-        "pass3": "123"
-    }
+    ]
 }
