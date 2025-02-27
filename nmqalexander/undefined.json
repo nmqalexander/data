@@ -1,0 +1,19 @@
+{
+        "title": "Home",
+        "categorys": [
+            {
+                "id": "1",
+                "categoryId": "home",
+                "title": "Home"
+            }
+        ],
+        "blogs": [
+            {
+                "id": "1",
+                "url": "category/blog",
+                "categoryId": "home",
+                "title": "Blog",
+                "thumbnail": null,
+            }
+        ]
+    }
