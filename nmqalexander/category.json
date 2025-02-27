@@ -1,66 +1,65 @@
 {
-        "title": "Category",
-        "categorys": [
-            {
-                "id": "1",
-                "categoryId": "category",
-                "title": "Category"
-            }
-        ],
-        "blogs": [
-            {
-                "id": "1",
-                "url": "blog",
-                "categoryId": "category",
-                "title": "blog",
-                "thumbnail": null,
-                "description": "blog",
-                "keywords": "blog",
-                "contents": [
-                    {
-                        "id": "1",
-                        "h2": "Chào các bạn ",
-                        "h2P": "nội dung",
-                        "h3": "hi các bạn",
-                        "h3P": "nội dungssss",
-                        "h4": null,
-                        "h4P": null,
-                        "ytVideo": null,
-                        "redirectTitle": null,
-                        "redirect": null,
-                        "app": null,
-                    },
-                    {
-                        "id": "2",
-                        "h2": "Chào các bạn ",
-                        "h2P": "nội dung",
-                        "h3": "hi các bạn",
-                        "h3P": "nội dungssss",
-                        "h4": null,
-                        "h4P": null,
-                        "ytVideo": null,
-                        "redirectTitle": null,
-                        "redirect": null,
-                        "app": null,
-                    }
-                ],
-                "secret": false,
-                "secretContents": [
-                    {
-                        "id": "1",
-                        "h2": "Chào các bạn ",
-                        "h2P": "nội dung",
-                        "h3": "hi các bạn",
-                        "h3P": "nội dungssss",
-                        "h4": null,
-                        "h4P": null,
-                        "ytVideo": null,
-                        "redirectTitle": null,
-                        "redirect": null,
-                        "app": null,
-                    }
-                ]
-            }
-        ]
-
-    }
+    "title": "Category",
+    "categorys": [
+        {
+            "id": "1",
+            "categoryId": "category",
+            "title": "Category"
+        }
+    ],
+    "blogs": [
+        {
+            "id": "1",
+            "url": "blog",
+            "categoryId": "category",
+            "title": "blog",
+            "thumbnail": null,
+            "description": "blog",
+            "keywords": "blog",
+            "contents": [
+                {
+                    "id": "1",
+                    "h2": "Chào các bạn ",
+                    "h2P": "nội dung",
+                    "h3": "hi các bạn",
+                    "h3P": "nội dungssss",
+                    "h4": null,
+                    "h4P": null,
+                    "ytVideo": null,
+                    "redirectTitle": null,
+                    "redirect": null,
+                    "app": null
+                },
+                {
+                    "id": "2",
+                    "h2": "Chào các bạn ",
+                    "h2P": "nội dung",
+                    "h3": "hi các bạn",
+                    "h3P": "nội dungssss",
+                    "h4": null,
+                    "h4P": null,
+                    "ytVideo": null,
+                    "redirectTitle": null,
+                    "redirect": null,
+                    "app": null
+                }
+            ],
+            "secret": false,
+            "secretContents": [
+                {
+                    "id": "1",
+                    "h2": "Chào các bạn ",
+                    "h2P": "nội dung",
+                    "h3": "hi các bạn",
+                    "h3P": "nội dungssss",
+                    "h4": null,
+                    "h4P": null,
+                    "ytVideo": null,
+                    "redirectTitle": null,
+                    "redirect": null,
+                    "app": null
+                }
+            ]
+        }
+    ]
+}
