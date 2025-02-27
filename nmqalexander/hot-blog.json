@@ -1,19 +1,19 @@
 {
-        "title": "Blog khác",
-        "category": [
-            {
-                "id": "1",
-                "categoryId": "hot-blog",
-                "title": "Hot Blog"
-            }
-        ],
-        "blogs": [
-            {
-                "id": "1",
-                "url": "category/blog",
-                "categoryId": "hot-blog",
-                "title": "Hot Blog",
-                "thumbnail": null,
-            }
-        ]
-    }
+    "title": "Blog khác",
+    "category": [
+        {
+            "id": "1",
+            "categoryId": "hot-blog",
+            "title": "Hot Blog"
+        }
+    ],
+    "blogs": [
+        {
+            "id": "1",
+            "url": "category/blog",
+            "categoryId": "hot-blog",
+            "title": "Hot Blog",
+            "thumbnail": null
+        }
+    ]
+}
