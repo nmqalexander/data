@@ -44,7 +44,7 @@
                     "app": null
                 }
             ],
-            "secret": false,
+            "secret": true,
             "secretContents": [
                 {
                     "id": "1",
