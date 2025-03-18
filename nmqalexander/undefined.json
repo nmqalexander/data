@@ -1,0 +1,29 @@
+{
+    "title": "NMQ Alexander",
+    "description": "Trang Web Chính Thức Của NMQ Alelxander",
+    "keywords": "NMQ Alexander, nmqalexander, nmq",
+    "thumbnail": "https://yt3.googleusercontent.com/wxcm7yoU_s6Qq5-U32H9jMpcyYv3FqQShnbVCfwOG3lPPJBdJJLlIaui1aqjoE6_IkhKtb8oeg=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+    "categorys": [
+        {
+            "id": "1",
+            "categoryId": "moi-dang",
+            "title": "Mới Đăng"
+        }
+    ],
+    "blogs": [
+        {
+            "id": "1",
+            "url": "meo-hay-windows/cach-an-o-dia",
+            "categoryId": "moi-dang",
+            "title": "Cách Ẩn Ổ Đĩa",
+            "thumbnail": "https://i9.ytimg.com/vi_webp/I2oNbvEjo68/sddefault.webp?v=67d63848&sqp=CITX5L4G&rs=AOn4CLBUBCouxPO_XmWeHG_CiMjtBiQ1Yg"
+        },
+        {
+            "id": "2",
+            "url": "react/cach-tao-react",
+            "categoryId": "moi-dang",
+            "title": "Cách tạo react",
+            "thumbnail": "https://i9.ytimg.com/vi_webp/lnGUSGOPkXs/mqdefault.webp?v=67cd1d0a&sqp=CKzS5L4G&rs=AOn4CLDRKnpgyE2f_8nPEBcLI2OSSIzTwg"
+        }
+    ]
+}

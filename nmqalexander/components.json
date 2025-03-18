@@ -1,0 +1,75 @@
+{
+    "logo": "https://yt3.googleusercontent.com/h1VmLS5-G5kIjrSjSxTwVdxA3FGtthgEICN0z5xQYgoA63RG6KWCY1mXgSNPirKK_DK0lI_hqw=s160-c-k-c0x00ffffff-no-rj",
+    "nav": [
+        {
+            "id": "1",
+            "title": "Windows",
+            "subNav": [
+                {
+                    "id": "1",
+                    "url": "meo-hay-windows",
+                    "title": "Mẹo hay windows"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Coding",
+            "subNav": [
+                {
+                    "id": "1",
+                    "url": "react",
+                    "title": "React"
+                }
+            ]
+        }
+    ],
+    "footer": {
+        "content": "Website chia sẻ các nội dung về lập trình, game, công nghệ,...",
+        "copyright": "©2025 NMQ Alexander"
+    },
+    "contacts": [
+        {
+            "id": "1",
+            "title": "Youtube",
+            "contents": [
+                {
+                    "id": "1",
+                    "title": "NMQ Alexander",
+                    "url": "https://youtube.com/@nmqalexander"
+                },
+                {
+                    "id": "2",
+                    "title": "NMQ Gamingggg",
+                    "url": "https://youtube.com/@nmqgamingggg"
+                },
+                {
+                    "id": "3",
+                    "title": "NMQ Developer",
+                    "url": "https://youtube.com/@nmqdeverloper"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Facebook",
+            "contents": [
+                {
+                    "id": "1",
+                    "title": "NMQ Alexander",
+                    "url": "https://www.facebook.com/profile.php?id=61565424986124"
+                }
+            ]
+        }
+    ],
+    "configSecretContents": {
+        "tutorialVideo": null,
+        "ytVideo": "",
+        "time1": "12:50",
+        "time2": "43:44",
+        "time3": "43:43",
+        "pass1": "123",
+        "pass2": "123",
+        "pass3": "123"
+    }
+}
