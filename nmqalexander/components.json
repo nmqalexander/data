@@ -68,8 +68,8 @@
         "time1": "12:50",
         "time2": "43:44",
         "time3": "43:43",
-        "pass1": "123",
-        "pass2": "123",
-        "pass3": "123"
+        "pass1": "$2a$10$I0zLQfcmt1ElVDybynjqGO.t6nmywyH5CQff3jELRgIIRhqIQ5Fv.",
+        "pass2": "$2a$10$I0zLQfcmt1ElVDybynjqGO.t6nmywyH5CQff3jELRgIIRhqIQ5Fv.",
+        "pass3": "$2a$10$I0zLQfcmt1ElVDybynjqGO.t6nmywyH5CQff3jELRgIIRhqIQ5Fv."
     }
 }
