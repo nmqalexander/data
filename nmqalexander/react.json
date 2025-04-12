@@ -34,22 +34,7 @@
                     "app": null
                 }
             ],
-            "secret": false,
-            "secretContents": [
-                {
-                    "id": "1",
-                    "h2": null,
-                    "h2P": null,
-                    "h3": null,
-                    "h3P": null,
-                    "h4": null,
-                    "h4P": null,
-                    "ytVideo": null,
-                    "redirectTitle": null,
-                    "redirect": null,
-                    "app": null
-                }
-            ]
+            "secret": false
         }
     ]
 }

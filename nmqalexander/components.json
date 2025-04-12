@@ -46,7 +46,7 @@
                 {
                     "id": "3",
                     "title": "NMQ Developer",
-                    "url": "https://youtube.com/@nmqdeverloper"
+                    "url": "https://youtube.com/@nmqdeveloper"
                 }
             ]
         },
@@ -62,6 +62,10 @@
             ]
         }
     ],
+    "software": {
+        "mobile": "",
+        "pc": ""
+    },
     "configSecretContents": {
         "tutorialVideo": null,
         "ytVideo": "",
