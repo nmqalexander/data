@@ -79,12 +79,12 @@
     },
     "configSecretContents": {
         "tutorialVideo": null,
-        "ytVideo": "",
-        "time1": "12:50",
-        "time2": "43:44",
-        "time3": "43:43",
-        "pass1": "$2a$10$I0zLQfcmt1ElVDybynjqGO.t6nmywyH5CQff3jELRgIIRhqIQ5Fv.",
-        "pass2": "$2a$10$I0zLQfcmt1ElVDybynjqGO.t6nmywyH5CQff3jELRgIIRhqIQ5Fv.",
-        "pass3": "$2a$10$I0zLQfcmt1ElVDybynjqGO.t6nmywyH5CQff3jELRgIIRhqIQ5Fv."
+        "ytVideo": "https://www.youtube.com/shorts/aksaYN8BhxQ",
+        "time1": "00:00",
+        "time2": "00:05",
+        "time3": "00:09",
+        "pass1": "$2a$12$nywLBc8I48cqcMcfz1/aNuHvOS.F6cy/WiwiaLbcXOESTIdeZ7yN2",
+        "pass2": "$2a$12$XutKGQYfDYYBoPbRp26p6ewdY.Bzp0hc0h3K32EZ2ylJppBfTRhAW",
+        "pass3": "$2a$12$51iHcx9qyryzBB8EYGC8meJAEJ.fC3NlCM7K7kn.V4dyQwcQWMbfS"
     }
 }
