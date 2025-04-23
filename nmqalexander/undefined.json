@@ -6,32 +6,18 @@
     "thumbnail": "https://yt3.googleusercontent.com/wxcm7yoU_s6Qq5-U32H9jMpcyYv3FqQShnbVCfwOG3lPPJBdJJLlIaui1aqjoE6_IkhKtb8oeg=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
     "categorys": [
         {
-            "id": "1",
-            "categoryId": "moi-dang",
-            "title": "Mới Đăng"
+            "id": "",
+            "categoryId": "",
+            "title": ""
         }
     ],
     "blogs": [
         {
-            "id": "1",
-            "url": "bong-da/real-madrid-vs-arsenal",
-            "categoryId": "moi-dang",
-            "title": "Real Madrid vs Arsenal",
-            "thumbnail": "https://i.ytimg.com/vi/-YlqwTkNx_U/maxresdefault.jpg"
-        },
-        {
-            "id": "2",
-            "url": "meo-hay-windows/cach-an-o-dia",
-            "categoryId": "moi-dang",
-            "title": "Cách Ẩn Ổ Đĩa",
-            "thumbnail": "https://i.ytimg.com/vi/I2oNbvEjo68/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDabKnpsPxdPfL6Ge-TPdV5U2XYRg"
-        },
-        {
-            "id": "3",
-            "url": "react/cach-tao-react",
-            "categoryId": "moi-dang",
-            "title": "Cách tạo react",
-            "thumbnail": "https://i.ytimg.com/vi/lnGUSGOPkXs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCOFcab2FxtYGRx75-gaOshs59YSg"
+            "id": "",
+            "url": "",
+            "categoryId": "",
+            "title": "",
+            "thumbnail": ""
         }
     ]
 }
