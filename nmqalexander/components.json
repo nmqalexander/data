@@ -2,35 +2,13 @@
     "logo": "https://yt3.googleusercontent.com/h1VmLS5-G5kIjrSjSxTwVdxA3FGtthgEICN0z5xQYgoA63RG6KWCY1mXgSNPirKK_DK0lI_hqw=s160-c-k-c0x00ffffff-no-rj",
     "nav": [
         {
-            "id": "1",
-            "title": "Windows",
+            "id": "",
+            "title": "",
             "subNav": [
                 {
-                    "id": "1",
-                    "url": "meo-hay-windows",
-                    "title": "Mẹo hay windows"
-                }
-            ]
-        },
-        {
-            "id": "2",
-            "title": "Coding",
-            "subNav": [
-                {
-                    "id": "1",
-                    "url": "react",
-                    "title": "React"
-                }
-            ]
-        },
-        {
-            "id": "3",
-            "title": "Bóng đá",
-            "subNav": [
-                {
-                    "id": "1",
-                    "url": "bong-da",
-                    "title": "Bóng dá"
+                    "id": "",
+                    "url": "",
+                    "title": ""
                 }
             ]
         }
