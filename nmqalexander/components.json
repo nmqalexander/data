@@ -2,13 +2,13 @@
     "logo": "https://yt3.googleusercontent.com/h1VmLS5-G5kIjrSjSxTwVdxA3FGtthgEICN0z5xQYgoA63RG6KWCY1mXgSNPirKK_DK0lI_hqw=s160-c-k-c0x00ffffff-no-rj",
     "nav": [
         {
-            "id": "",
-            "title": "",
+            "id": "1",
+            "title": "Mẹo Windows",
             "subNav": [
                 {
-                    "id": "",
-                    "url": "",
-                    "title": ""
+                    "id": "1",
+                    "url": "meo-windows",
+                    "title": "Mẹo Windows"
                 }
             ]
         }
