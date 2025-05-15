@@ -1,4 +1,9 @@
 {
+    "categorys": [
+        "Game",
+        "Windows",
+        "Android"
+    ],
     "contents": [
         {
             "category": "Game",
