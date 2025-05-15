@@ -1,0 +1,28 @@
+{
+    "contents": [
+        {
+            "category": "Game",
+            "title": "GTA VI",
+            "description": "GTA VI",
+            "keyword": "GTA VI",
+            "thumbnail": "GTA VI",
+            "link": "GTA VI"
+        },
+        {
+            "category": "Windows",
+            "title": "Cài Windows",
+            "description": "Cài Windows",
+            "keyword": "Cài Windows",
+            "thumbnail": "windows",
+            "link": "windows"
+        },
+        {
+            "category": "Android",
+            "title": "Fix Android",
+            "description": "Fix Android",
+            "keyword": "Fix Android",
+            "thumbnail": "android",
+            "link": "android"
+        }
+    ]
+}
