@@ -1,33 +1,33 @@
 {
     "categorys": [
-        "Game",
-        "Windows",
-        "Android"
+        "AAA",
+        "fight",
+        "Code"
     ],
     "contents": [
         {
-            "category": "Game",
+            "category": "AAA",
             "title": "GTA VI",
             "description": "GTA VI",
             "keyword": "GTA VI",
             "thumbnail": "https://www.cnet.com/a/img/resize/efb028bcb40115100ceaee4bc73e7617b00bac2c/hub/2013/03/28/8ccbe6e9-cc2e-11e2-9a4a-0291187b029a/RSG-GTAV-Screenshot_1.jpg?auto=webp&width=1200",
-            "link": "GTA VI"
+            "link": "https://gtav.com"
         },
         {
-            "category": "Game",
+            "category": "AAA",
             "title": "Cài Windows",
             "description": "Cài Windows",
             "keyword": "Cài Windows",
             "thumbnail": "https://genk.mediacdn.vn/thumb_w/480/139269124445442048/2025/5/13/photo-1747026833614-174702683514998075697-1747098315822-1747098315884798164811.jpeg",
-            "link": "windows"
+            "link": "htpps://hacker.com"
         },
         {
-            "category": "Android",
-            "title": "Fix Android",
-            "description": "Fix Android",
+            "category": "Code",
+            "title": "Coder",
+            "description": "Coder",
             "keyword": "Fix Android",
             "thumbnail": "https://pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev/sites/463/2021/06/Hero-Bloom-Logo-1000x563-1.jpg",
-            "link": "android"
+            "link": "https://code.com"
         }
     ]
 }

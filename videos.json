@@ -1,33 +1,33 @@
 {
     "categorys": [
-        "Game",
-        "Windows",
-        "Android"
+        "XXX",
+        "ABC",
+        "XYZ"
     ],
     "contents": [
         {
-            "category": "Game",
-            "title": "GTA VI",
-            "description": "GTA VI",
+            "category": "XYZ",
+            "title": "Công cộng",
+            "description": "Công cộng",
             "keyword": "GTA VI",
             "thumbnail": "https://www.cnet.com/a/img/resize/efb028bcb40115100ceaee4bc73e7617b00bac2c/hub/2013/03/28/8ccbe6e9-cc2e-11e2-9a4a-0291187b029a/RSG-GTAV-Screenshot_1.jpg?auto=webp&width=1200",
-            "link": "GTA VI"
+            "link": "https://youtube.com/aaaa"
         },
         {
-            "category": "Game",
-            "title": "Cài Windows",
+            "category": "ABC",
+            "title": "kín đáo",
             "description": "Cài Windows",
             "keyword": "Cài Windows",
             "thumbnail": "https://hoanghamobile.com/tin-tuc/wp-content/uploads/2025/04/windows-10.jpg",
-            "link": "windows"
+            "link": "https://hoc.com"
         },
         {
-            "category": "Android",
-            "title": "Fix Android",
+            "category": "XXX",
+            "title": "trong nhà",
             "description": "Fix Android",
             "keyword": "Fix Android",
             "thumbnail": "https://pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev/sites/463/2021/06/Hero-Bloom-Logo-1000x563-1.jpg",
-            "link": "android"
+            "link": "https://youtube.com/aaaa/aaaaa"
         }
     ]
 }
