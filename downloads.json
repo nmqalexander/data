@@ -10,7 +10,7 @@
             "title": "GTA VI",
             "description": "GTA VI",
             "keyword": "GTA VI",
-            "thumbnail": "GTA VI",
+            "thumbnail": "https://www.cnet.com/a/img/resize/efb028bcb40115100ceaee4bc73e7617b00bac2c/hub/2013/03/28/8ccbe6e9-cc2e-11e2-9a4a-0291187b029a/RSG-GTAV-Screenshot_1.jpg?auto=webp&width=1200",
             "link": "GTA VI"
         },
         {
@@ -18,7 +18,7 @@
             "title": "Cài Windows",
             "description": "Cài Windows",
             "keyword": "Cài Windows",
-            "thumbnail": "windows",
+            "thumbnail": "https://www.cnet.com/a/img/resize/efb028bcb40115100ceaee4bc73e7617b00bac2c/hub/2013/03/28/8ccbe6e9-cc2e-11e2-9a4a-0291187b029a/RSG-GTAV-Screenshot_1.jpg?auto=webp&width=1200",
             "link": "windows"
         },
         {
@@ -26,7 +26,7 @@
             "title": "Fix Android",
             "description": "Fix Android",
             "keyword": "Fix Android",
-            "thumbnail": "android",
+            "thumbnail": "https://pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev/sites/463/2021/06/Hero-Bloom-Logo-1000x563-1.jpg",
             "link": "android"
         }
     ]
