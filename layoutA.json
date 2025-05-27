@@ -1,0 +1,148 @@
+{
+    "ads": {
+        "tutorialVideo": "",
+        "contents": [
+            {
+                "link": "https://www.lastpass.com/features/password-generator",
+                "pass": [
+                    "$2a$12$p9TgaNbyQhwnXg4HN8LtHeVsUpiyM3zVW8p/d6220Bm9ZvujdO6RK",
+                    "$2a$12$p9TgaNbyQhwnXg4HN8LtHeVsUpiyM3zVW8p/d6220Bm9ZvujdO6RK",
+                    "$2a$12$p9TgaNbyQhwnXg4HN8LtHeVsUpiyM3zVW8p/d6220Bm9ZvujdO6RK"
+                ]
+            },
+            {
+                "link": "https://bcrypt-generator.com/",
+                "pass": [
+                    "$2a$12$p9TgaNbyQhwnXg4HN8LtHeVsUpiyM3zVW8p/d6220Bm9ZvujdO6RK",
+                    "$2a$12$p9TgaNbyQhwnXg4HN8LtHeVsUpiyM3zVW8p/d6220Bm9ZvujdO6RK",
+                    "$2a$12$p9TgaNbyQhwnXg4HN8LtHeVsUpiyM3zVW8p/d6220Bm9ZvujdO6RK"
+                ]
+            },
+            {
+                "link": "https://github.com/nmqalexander/data/upload/main",
+                "pass": [
+                    "$2a$12$p9TgaNbyQhwnXg4HN8LtHeVsUpiyM3zVW8p/d6220Bm9ZvujdO6RK",
+                    "$2a$12$p9TgaNbyQhwnXg4HN8LtHeVsUpiyM3zVW8p/d6220Bm9ZvujdO6RK",
+                    "$2a$12$p9TgaNbyQhwnXg4HN8LtHeVsUpiyM3zVW8p/d6220Bm9ZvujdO6RK"
+                ]
+            }
+        ]
+    },
+    "downloads": {
+        "comments": [
+            "Link: Nhớ mã hóa",
+            "Related Content: để url sau https://domain.com/"
+        ],
+        "categorys": [
+            "AAA",
+            "fight",
+            "Code"
+        ],
+        "contents": [
+            {
+                "category": "AAA",
+                "title": "GTA VI",
+                "description": "GTA VI",
+                "keyword": "GTA VI",
+                "thumbnail": "https://www.cnet.com/a/img/resize/efb028bcb40115100ceaee4bc73e7617b00bac2c/hub/2013/03/28/8ccbe6e9-cc2e-11e2-9a4a-0291187b029a/RSG-GTAV-Screenshot_1.jpg?auto=webp&width=1200",
+                "relatedContent": null,
+                "link": "U2FsdGVkX1+tUdYvWi7qAgpnJAhTA48qaAE73sZRmkXXhv4lnTAbkffxswwRxWqE"
+            },
+            {
+                "category": "AAA",
+                "title": "Cài Windows",
+                "description": "Cài Windows",
+                "keyword": "Cài Windows",
+                "thumbnail": "https://genk.mediacdn.vn/thumb_w/480/139269124445442048/2025/5/13/photo-1747026833614-174702683514998075697-1747098315822-1747098315884798164811.jpeg",
+                "relatedContent": null,
+                "link": "U2FsdGVkX1+zRoHy8S9ijaYBKi/LKAWs7co5x+HzZCXjpjFIBA5LXNVfvpFIeMvB"
+            },
+            {
+                "category": "Code",
+                "title": "Coder",
+                "description": "Coder",
+                "keyword": "Fix Android",
+                "thumbnail": "https://pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev/sites/463/2021/06/Hero-Bloom-Logo-1000x563-1.jpg",
+                "relatedContent": null,
+                "link": "U2FsdGVkX1/zQZDwnKhPCEAeFJk+yehjlLm1kw+MphFp9t86m7PpMhS4eXRfFaDc"
+            }
+        ]
+    },
+    "videos": {
+        "comments": [
+            "Link: Nhớ mã hóa",
+            "Related Content: để url sau https://domain.com/"
+        ],
+        "categorys": [
+            "Test1",
+            "Test2",
+            "Test3"
+        ],
+        "contents": [
+            {
+                "category": "Test1",
+                "title": "fix windows",
+                "description": "Công cộng",
+                "keyword": "GTA VI",
+                "thumbnail": "https://www.cnet.com/a/img/resize/efb028bcb40115100ceaee4bc73e7617b00bac2c/hub/2013/03/28/8ccbe6e9-cc2e-11e2-9a4a-0291187b029a/RSG-GTAV-Screenshot_1.jpg?auto=webp&width=1200",
+                "relatedContent": null,
+                "link": "U2FsdGVkX18jNsII24iqXDAkSFUdXPQjZ8fMKjUOEaq29kmy1dradQRh8ERQ2QRZ"
+            },
+            {
+                "category": "Test2",
+                "title": "windows 11",
+                "description": "Cài Windows",
+                "keyword": "Cài Windows",
+                "thumbnail": "https://hoanghamobile.com/tin-tuc/wp-content/uploads/2025/04/windows-10.jpg",
+                "relatedContent": null,
+                "link": "U2FsdGVkX1/91Rs8koaiYGaa6QT+dMXhGVRwFpyG/mU="
+            },
+            {
+                "category": "Test3",
+                "title": "test",
+                "description": "Fix Android",
+                "keyword": "Fix Android",
+                "thumbnail": "https://pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev/sites/463/2021/06/Hero-Bloom-Logo-1000x563-1.jpg",
+                "relatedContent": null,
+                "link": "U2FsdGVkX19AZUvoueqGerbQSUAgQRgYJCcuhZn/szuoNIKUw8qoPkYZjJf/seMf"
+            }
+        ]
+    },
+    "contents": {
+        "comments": [
+            "Description: Để xuống dòng thêm <br />",
+            "Link: Mã sau embed"
+        ],
+        "categorys": [
+            "Facebook",
+            "Thủ Thuật",
+            "coding"
+        ],
+        "contents": [
+            {
+                "category": "Facebook",
+                "title": "GTA VI",
+                "description": "GTA VI",
+                "keyword": "GTA VI",
+                "thumbnail": "https://www.cnet.com/a/img/resize/efb028bcb40115100ceaee4bc73e7617b00bac2c/hub/2013/03/28/8ccbe6e9-cc2e-11e2-9a4a-0291187b029a/RSG-GTAV-Screenshot_1.jpg?auto=webp&width=1200",
+                "link": "https://abc.com"
+            },
+            {
+                "category": "coding",
+                "title": "test3",
+                "description": "hacker fb",
+                "keyword": "Cài Windows",
+                "thumbnail": "https://cloud-web-cms-v2.s3.cloud.cmctelecom.vn/he_dieu_hanh_ma_nguon_mo_4_f03e60deb4.png",
+                "link": "https://abc.xyz"
+            },
+            {
+                "category": "Thủ Thuật",
+                "title": "Chặn đã xem",
+                "description": "Fix Android",
+                "keyword": "Fix Android",
+                "thumbnail": "https://laptopdailoi.com/wp-content/uploads/2023/06/windows-10-logo.jpg",
+                "link": "https://youtube.com"
+            }
+        ]
+    }
+}
