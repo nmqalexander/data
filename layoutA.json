@@ -1,29 +1,87 @@
 {
     "ads": {
+        "comments": [
+            {
+                "link": "https://youtu.be/",
+                "pass": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
         "tutorialVideo": "",
         "contents": [
             {
-                "link": "https://www.lastpass.com/features/password-generator",
+                "link": "https://youtu.be/-PtRS3U9NUQ",
                 "pass": [
-                    "$2a$12$p9TgaNbyQhwnXg4HN8LtHeVsUpiyM3zVW8p/d6220Bm9ZvujdO6RK",
-                    "$2a$12$p9TgaNbyQhwnXg4HN8LtHeVsUpiyM3zVW8p/d6220Bm9ZvujdO6RK",
-                    "$2a$12$p9TgaNbyQhwnXg4HN8LtHeVsUpiyM3zVW8p/d6220Bm9ZvujdO6RK"
+                    "$2a$12$/J2QX/1EKXY0d/Cv4jwA7uyPZPfk87d696T0UIdEiG34vOd8e0Sky",
+                    "$2a$12$1cHQs9VycY5nn7IV0si9pekBkzNTFyCg/wybfZlpnAN/KkRYSZMIO",
+                    "$2a$12$ixzHrEaRQFvnartobXJSTuqt80VZI7yK1nXqZwTly438/FOlOVvFy"
                 ]
             },
             {
-                "link": "https://bcrypt-generator.com/",
+                "link": "https://youtu.be/aSN7DCXSAKo",
                 "pass": [
-                    "$2a$12$p9TgaNbyQhwnXg4HN8LtHeVsUpiyM3zVW8p/d6220Bm9ZvujdO6RK",
-                    "$2a$12$p9TgaNbyQhwnXg4HN8LtHeVsUpiyM3zVW8p/d6220Bm9ZvujdO6RK",
-                    "$2a$12$p9TgaNbyQhwnXg4HN8LtHeVsUpiyM3zVW8p/d6220Bm9ZvujdO6RK"
+                    "$2a$12$2PqmL60SrMmJdu4dqUE1Cu6rh11Rtc3OTvLkhAWbyhcBEvJwOGsVK",
+                    "$2a$12$xwlcVrm2wvmTsDv2GEoK6esGDZ8mPzhVNdADdeN8IyENYoHDYgl1S",
+                    "$2a$12$CpcFGb2/ElE5rFilLTbftODJ0T46kjbheiCvmu8aTfhw4SHnsKKjq"
                 ]
             },
             {
-                "link": "https://github.com/nmqalexander/data/upload/main",
+                "link": "https://youtu.be/fgc2sS3knxY",
                 "pass": [
-                    "$2a$12$p9TgaNbyQhwnXg4HN8LtHeVsUpiyM3zVW8p/d6220Bm9ZvujdO6RK",
-                    "$2a$12$p9TgaNbyQhwnXg4HN8LtHeVsUpiyM3zVW8p/d6220Bm9ZvujdO6RK",
-                    "$2a$12$p9TgaNbyQhwnXg4HN8LtHeVsUpiyM3zVW8p/d6220Bm9ZvujdO6RK"
+                    "$2a$12$XFY1NvAgLIl0RAWtKGwjs.OaOk0qyvJ1fuUMT7vnsRna2pBZWTgt6",
+                    "$2a$12$.dMIXh4MB9ukNcUKns7dXemSHBnd2rEAdxeEJ1GJu0etMI3NqHtLG",
+                    "$2a$12$BWY0bphZRUpmTvlDS/Hak.eJJ0mS5OU9Uauo6hc0QBWc.Csa77xVG"
+                ]
+            },
+            {
+                "link": "https://youtu.be/fCd09Bpfxis",
+                "pass": [
+                    "$2a$12$Fb9PX7NlKxXYUQQSx0Bnve8yCm/nNrf0Qhm7Ds.cGYo3YLMzq3JvK",
+                    "$2a$12$97fb46lxz.zUgx0ji0pzzOvB.eZgteYR9ljTmkvFzt7f.65EPuPl6",
+                    "$2a$12$Biq4N0Rm.67uSNq31H7TjuhC7LuiDjJrSehZ/Gij9nBO8LCEJhEoq"
+                ]
+            },
+            {
+                "link": "https://youtu.be/1-h7etNcMjg",
+                "pass": [
+                    "$2a$12$L.F1sv4z6XJijFmFcIanU.8fPMIDoxjDyMPprw8HImerV7IaT9Yta",
+                    "$2a$12$jnM88YMK/D/n643Ldw5zlOYPPCuk.F1Kgd0KLfmtika60Nu/NOoYC",
+                    "$2a$12$wDy2uyatj.Hh2.NQ3V9/xOHR2M6/eRcTXAwIOydbmfA7/kp0uSMxm"
+                ]
+            },
+            {
+                "link": "https://youtu.be/FFkBTbAGncY",
+                "pass": [
+                    "$2a$12$F1xEKxNBQSpSKMNLT3KhXulavOxTbrPCx1fiBpZoJqNMPgxCkLICy",
+                    "$2a$12$SVYEhNi5xZB0EwbQMUQdfO5MNvO5H0Y15UvtDYIzLdK4ca85AYiQq",
+                    "$2a$12$e6ykNIeAcf40tUy2XSfDNOuhlQ5pHTvC2o8WMffocNWjLSYGaLhKW"
+                ]
+            },
+            {
+                "link": "https://youtu.be/o6jHrSfGtTk",
+                "pass": [
+                    "$2a$12$e/heFB5xEItyKPhuzR9Mk.SDCySZm4jOifIQy4wbDAtgWW31YzXWG",
+                    "$2a$12$QP8ZcIo4Oti0sC.dMuOkTuJh4dpEY3j/8p6LOR2wMPSFIP2KqnIPK",
+                    "$2a$12$JLc9gFN24Cd.a.jVkMHAJelsSftuBANPEO8x2Fsgv6NzsR66OYtAu"
+                ]
+            },
+            {
+                "link": "https://youtu.be/Hiu6f7LEGQA",
+                "pass": [
+                    "$2a$12$.WViqqDqwvDDHqTuKqa60OIT4yLbCGEd8j3rX87/tj05mHDGEemvC",
+                    "$2a$12$4WG/muX0AJzwjMoI6cwthe4T//ZqatmHG0BYkfNtsK1plJ3kFR4Zy",
+                    "$2a$12$.2OPB4.YiAdY0B9n55qDWOpfO3lDdWwQVOAK4nBVLRuALiY7m6x/G"
+                ]
+            },
+            {
+                "link": "https://youtu.be/VU9dI85HFpI",
+                "pass": [
+                    "$2a$12$nJMixsVs9FbnOjAKhompM.z2xDIPSSdM9poccQBrycVNobZr6H7S2",
+                    "$2a$12$8ZTIMoZlKFY/SOtwLUwiIeysOnF7S3Adx508qJeuCTDowqZ5jzBRm",
+                    "$2a$12$KUGrqAtVKltko7T9coX9SOizhCXg/XiTweH/HpdKgiouZJwZ5cn4K"
                 ]
             }
         ]
@@ -34,37 +92,17 @@
             "Related Content: để url sau https://domain.com/"
         ],
         "categorys": [
-            "AAA",
-            "fight",
-            "Code"
+            ""
         ],
         "contents": [
             {
-                "category": "AAA",
-                "title": "GTA VI",
-                "description": "GTA VI",
-                "keyword": "GTA VI",
-                "thumbnail": "https://www.cnet.com/a/img/resize/efb028bcb40115100ceaee4bc73e7617b00bac2c/hub/2013/03/28/8ccbe6e9-cc2e-11e2-9a4a-0291187b029a/RSG-GTAV-Screenshot_1.jpg?auto=webp&width=1200",
+                "category": "",
+                "title": "Sắp có",
+                "description": "Sắp có",
+                "keyword": "Sắp có",
+                "thumbnail": "",
                 "relatedContent": null,
-                "link": "U2FsdGVkX1+tUdYvWi7qAgpnJAhTA48qaAE73sZRmkXXhv4lnTAbkffxswwRxWqE"
-            },
-            {
-                "category": "AAA",
-                "title": "Cài Windows",
-                "description": "Cài Windows",
-                "keyword": "Cài Windows",
-                "thumbnail": "https://genk.mediacdn.vn/thumb_w/480/139269124445442048/2025/5/13/photo-1747026833614-174702683514998075697-1747098315822-1747098315884798164811.jpeg",
-                "relatedContent": null,
-                "link": "U2FsdGVkX1+zRoHy8S9ijaYBKi/LKAWs7co5x+HzZCXjpjFIBA5LXNVfvpFIeMvB"
-            },
-            {
-                "category": "Code",
-                "title": "Coder",
-                "description": "Coder",
-                "keyword": "Fix Android",
-                "thumbnail": "https://pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev/sites/463/2021/06/Hero-Bloom-Logo-1000x563-1.jpg",
-                "relatedContent": null,
-                "link": "U2FsdGVkX1/zQZDwnKhPCEAeFJk+yehjlLm1kw+MphFp9t86m7PpMhS4eXRfFaDc"
+                "link": ""
             }
         ]
     },
@@ -74,74 +112,108 @@
             "Related Content: để url sau https://domain.com/"
         ],
         "categorys": [
-            "Test1",
-            "Test2",
-            "Test3"
+            ""
         ],
         "contents": [
             {
-                "category": "Test1",
-                "title": "fix windows",
-                "description": "Công cộng",
-                "keyword": "GTA VI",
-                "thumbnail": "https://www.cnet.com/a/img/resize/efb028bcb40115100ceaee4bc73e7617b00bac2c/hub/2013/03/28/8ccbe6e9-cc2e-11e2-9a4a-0291187b029a/RSG-GTAV-Screenshot_1.jpg?auto=webp&width=1200",
+                "category": "",
+                "title": "Sắp có",
+                "description": "Sắp có",
+                "keyword": "Sắp có",
+                "thumbnail": "",
                 "relatedContent": null,
-                "link": "U2FsdGVkX18jNsII24iqXDAkSFUdXPQjZ8fMKjUOEaq29kmy1dradQRh8ERQ2QRZ"
-            },
-            {
-                "category": "Test2",
-                "title": "windows 11",
-                "description": "Cài Windows",
-                "keyword": "Cài Windows",
-                "thumbnail": "https://hoanghamobile.com/tin-tuc/wp-content/uploads/2025/04/windows-10.jpg",
-                "relatedContent": null,
-                "link": "U2FsdGVkX1/91Rs8koaiYGaa6QT+dMXhGVRwFpyG/mU="
-            },
-            {
-                "category": "Test3",
-                "title": "test",
-                "description": "Fix Android",
-                "keyword": "Fix Android",
-                "thumbnail": "https://pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev/sites/463/2021/06/Hero-Bloom-Logo-1000x563-1.jpg",
-                "relatedContent": null,
-                "link": "U2FsdGVkX19AZUvoueqGerbQSUAgQRgYJCcuhZn/szuoNIKUw8qoPkYZjJf/seMf"
+                "link": ""
             }
         ]
     },
     "contents": {
         "comments": [
             "Description: Để xuống dòng thêm <br />",
-            "Link: Mã sau embed"
+            "Link: Mã sau embed",
+            {
+                "category": "",
+                "title": "",
+                "description": "",
+                "keyword": "",
+                "thumbnail": "",
+                "link": ""
+            }
         ],
         "categorys": [
-            "Facebook",
-            "Thủ Thuật",
-            "coding"
+            "Mẹo windows cực đỉnh"
         ],
         "contents": [
             {
-                "category": "Facebook",
-                "title": "GTA VI",
-                "description": "GTA VI",
-                "keyword": "GTA VI",
-                "thumbnail": "https://www.cnet.com/a/img/resize/efb028bcb40115100ceaee4bc73e7617b00bac2c/hub/2013/03/28/8ccbe6e9-cc2e-11e2-9a4a-0291187b029a/RSG-GTAV-Screenshot_1.jpg?auto=webp&width=1200",
-                "link": "https://abc.com"
+                "category": "",
+                "title": "🔥 Chỉnh Phím Tay Cầm Cực Nhanh, Chuẩn! - Quick Guide to Controller Button Mapping! || NMQ ALEXANDER",
+                "description": "#ChỉnhPhímTayCầm #RemapController #Gamepad #TùyBiếnTayCầm #HướngDẫnGaming<br/>🎮 Bạn muốn chỉnh lại phím trên tay cầm để chơi game dễ hơn, tiện lợi hơn?<br/>Trong video này, mình sẽ hướng dẫn bạn cách remap nút tay cầm đơn giản, nhanh chóng trên Windows và console!<br/>✅ Hỗ trợ mọi loại tay cầm phổ biến (Xbox, PS4, PS5,...).<br/>✅ Không cần phần mềm phức tạp.<br/>✅ Tuỳ chỉnh theo phong cách chơi game của riêng bạn!<br/>👉 Cùng mình biến tay cầm thành vũ khí tối thượng ngay nhé!<br/>🔥 Chỉnh Phím Tay Cầm Cực Nhanh, Chuẩn! - Quick Guide to Controller Button Mapping! || NMQ ALEXANDER<br/>#GamingTips #ControllerSettings #GamepadCustomization #GamingHack #RemapButtons #nmqalexander #nmq",
+                "keyword": "cách chỉnh phím tay cầm,remap tay cầm,chỉnh nút tay cầm xbox,chỉnh nút tay cầm ps4,chỉnh nút tay cầm ps5,cách tuỳ chỉnh tay cầm,thay đổi nút tay cầm,hướng dẫn chỉnh tay cầm,tối ưu tay cầm,how to remap controller buttons,customize gamepad buttons,controller button mapping guide,change xbox controller buttons,remap ps4 controller,remap ps5 controller,configure gamepad controls,gaming controller settings,best controller setup,nmq alexander,nmq,nmqalexander",
+                "thumbnail": "https://i.ytimg.com/vi/-PtRS3U9NUQ/hq720.jpg",
+                "link": "-PtRS3U9NUQ"
             },
             {
-                "category": "coding",
-                "title": "test3",
-                "description": "hacker fb",
-                "keyword": "Cài Windows",
-                "thumbnail": "https://cloud-web-cms-v2.s3.cloud.cmctelecom.vn/he_dieu_hanh_ma_nguon_mo_4_f03e60deb4.png",
-                "link": "https://abc.xyz"
+                "category": "Mẹo windows cực đỉnh",
+                "title": "🚀 Tải Cực Nhanh, Tối Ưu Tốc Độ - Speed Up Your Downloads Instantly! || NMQ ALEXANDER",
+                "description": "#TảiNhanh #TăngTốcĐộDownload #MẹoCôngNghệ #DownloadSiêuNhanh #TăngTốcMạng<br/>📥 Bạn đang chờ tải file quá lâu và muốn tìm cách tải nhanh hơn?<br/>Trong video này, mình sẽ hướng dẫn bạn mẹo tối ưu tốc độ download nhanh nhất mà ai cũng làm được!<br/>✅ Cách sử dụng công cụ hỗ trợ download.<br/>✅ Mẹo tăng tốc internet cực kỳ đơn giản.<br/>✅ Hướng dẫn chi tiết cho mọi thiết bị.<br/>👉 Xem ngay để biết cách biến việc tải file chậm thành siêu tốc nhé!<br/>🚀 Tải Cực Nhanh, Tối Ưu Tốc Độ - Speed Up Your Downloads Instantly! || NMQ ALEXANDER<br/>#DownloadTips #SpeedUpDownload #TechHacks #BoostInternetSpeed #FastDownload #nmqalexander #nmq",
+                "keyword": "cách tải nhanh,mẹo tải file nhanh,tăng tốc độ download,cách tăng tốc độ tải file,thủ thuật tăng tốc tải,hướng dẫn tải nhanh,phần mềm tải nhanh,tăng tốc mạng tải file,tối ưu tốc độ tải,how to download faster,boost download speed,speed up internet downloads,download tips and tricks,fast file downloading,optimize download speed,download files faster,internet speed boost,download manager tips,how to speed up downloads,nmq alexander,nmq,nmqalexander",
+                "thumbnail": "https://i.ytimg.com/vi/aSN7DCXSAKo/hq720.jpg",
+                "link": "aSN7DCXSAKo"
             },
             {
-                "category": "Thủ Thuật",
-                "title": "Chặn đã xem",
-                "description": "Fix Android",
-                "keyword": "Fix Android",
-                "thumbnail": "https://laptopdailoi.com/wp-content/uploads/2023/06/windows-10-logo.jpg",
-                "link": "https://youtube.com"
+                "category": "",
+                "title": "🚀 Chia Sẻ Profile Discord Siêu Nhanh! - Share Your Discord Profile Link in Seconds! || NMQ ALEXANDER",
+                "description": "#Discord #ProfileLink #DiscordTips #ChiaSẻProfile #HướngDẫnDiscord<br/>💬 Bạn đang tìm cách lấy link profile Discord để chia sẻ với bạn bè?<br/>Trong video này, mình sẽ hướng dẫn bạn cách copy link profile Discord nhanh gọn chỉ với vài thao tác đơn giản!<br/>✅ Áp dụng cho phiên bản Discord mới nhất.<br/>✅ Cực nhanh, cực tiện lợi, ai cũng làm được!<br/>👉 Xem ngay để biết cách chia sẻ Profile Discord một cách chuyên nghiệp nhé!<br/>🚀 Chia Sẻ Profile Discord Siêu Nhanh! - Share Your Discord Profile Link in Seconds! || NMQ ALEXANDER<br/>#HowToCopyDiscordLink #DiscordProfile #DiscordHack #DiscordTutorial #TechTips #nmqalexander #nmq",
+                "keyword": "cách lấy link profile discord,cách chia sẻ link discord,lấy url profile discord,mẹo discord,cách copy profile discord,chia sẻ tài khoản discord,cách gửi link profile discord,hướng dẫn sử dụng discord,how to copy discord profile link,share discord profile link,get discord profile url,discord profile tutorial,discord tips and tricks,copy discord id link,share discord account,discord username link,discord profile sharing,nmq alexander,nmq,nmqalexander",
+                "thumbnail": "https://i.ytimg.com/vi/fgc2sS3knxY/hq720.jpg",
+                "link": "fgc2sS3knxY"
+            },
+            {
+                "category": "Mẹo windows cực đỉnh",
+                "title": "🔒Ẩn Ứng Dụng Khỏi Start Menu Siêu Nhanh! - Hide Apps from Start Menu Easily! || NMQ ALEXANDER",
+                "description": "#ẨnỨngDụng #StartMenu #MẹoWindows #GiấuỨngDụng #BảoMậtMáyTính<br/>🖥️ Bạn muốn ẩn ứng dụng khỏi Start Menu trên Windows để giữ riêng tư hoặc làm gọn gàng hơn?<br/>Trong video này, mình sẽ hướng dẫn bạn cách giấu ứng dụng trên Start Menu nhanh chóng, đơn giản mà cực kỳ hiệu quả!<br/>✅ Áp dụng cho Windows 10, Windows 11,... .<br/>✅ Không cần phần mềm bên ngoài.<br/>✅ Ai cũng làm được chỉ với vài bước!<br/>👉 Giữ Start Menu gọn gàng, tăng tính bảo mật cá nhân ngay hôm nay!<br/>🔒Ẩn Ứng Dụng Khỏi Start Menu Siêu Nhanh! - Hide Apps from Start Menu Easily! || NMQ ALEXANDER<br/>#WindowsTips #HideApps #TechHacks #WindowsStartMenu #PrivacyTips #nmqalexander #nmq",
+                "keyword": "cách ẩn ứng dụng trên start menu,ẩn app windows,cách giấu ứng dụng trên windows 10,mẹo ẩn ứng dụng,cách dọn gọn start menu,hướng dẫn windows 11,bảo mật máy tính windows,mẹo windows,mẹo start menu,cách chỉnh sửa start menu,hide apps from start menu,how to hide apps windows,windows start menu tips,hide app windows 10,hide app windows 11,clean up start menu,windows privacy tips,start menu customization,hide icons start menu,nmq alexander,nmq,nmqalexander",
+                "thumbnail": "https://i.ytimg.com/vi/fCd09Bpfxis/hq720.jpg",
+                "link": "fCd09Bpfxis"
+            },
+            {
+                "category": "Mẹo windows cực đỉnh",
+                "title": "🛡️ Ẩn IP Ngay Trước Khi Quá Muộn! - Hide Your IP Address Before It's Too Late! || NMQ Alexander",
+                "description": "#ẨnIP #GiấuĐịaChỉIP #BảoMậtInternet #AnToànMạng #HideYourIP<br/>🌐 Bạn đang lộ IP thật mà không biết? 👀<br/>Trong video này, mình sẽ hướng dẫn bạn cách ẩn địa chỉ IP cực đơn giản và hiệu quả chỉ trong vài bước! 🔥<br/>✅ Bảo vệ danh tính online, tránh bị theo dõi, tăng cường bảo mật Internet ngay hôm nay!<br/>🔒 Ẩn IP để lướt web an toàn và tự do hơn.<br/>👉 Đừng để kẻ xấu lần ra dấu vết của bạn!<br/>🔔 Đăng ký kênh để đón thêm nhiều mẹo công nghệ cực hay!<br/>🛡️ Ẩn IP Ngay Trước Khi Quá Muộn! - Hide Your IP Address Before It's Too Late! || NMQ Alexander<br/>#ProtectYourPrivacy #InternetSafety #StayAnonymous #SecureInternet #CyberSecurity #nmqalexander #nmq",
+                "keyword": "cách ẩn ip,ẩn ip thật,giấu địa chỉ ip khi lướt web,cách giấu ip máy tính,cách giấu ip điện thoại,mẹo bảo mật ip,cách lướt web ẩn danh,bảo vệ địa chỉ ip,an toàn internet,ẩn ip miễn phí,hide real ip address,how to hide ip address,hide my ip online,protect your ip address,browse anonymously,secure your internet connection,stay anonymous online,hide ip for free,internet privacy tips,hide ip vpn,nmq alexander,nmq,nmqalexander",
+                "thumbnail": "1-h7etNcMjg",
+                "link": "https://i.ytimg.com/vi/1-h7etNcMjg/hq720.jpg"
+            },
+            {
+                "category": "",
+                "title": "👀Đọc Tin Nhắn Không Bị Lộ Đã Xem! - Read Messages Without Being Seen! || NMQ ALEXANDER",
+                "description": "#ẨnDanhTinNhắn #KhôngHiệnĐãXem #BảoMậtInternet #PrivacyTips #MessengerTips<br/>📩 Bạn có bao giờ muốn đọc tin nhắn trên Messenger mà người kia KHÔNG biết? 👀<br/>Trong video này, mình sẽ bật mí cách đọc tin nhắn hoàn toàn ẩn danh, không để lại dòng chữ “Đã xem” khó xử! 🕵️‍♂️✨<br/>🎯 Hướng dẫn chi tiết từng bước – đơn giản, dễ làm, hiệu quả ngay lập tức!<br/>🔒 Bảo vệ quyền riêng tư online – Đừng để người khác kiểm soát sự hiện diện của bạn trên mạng!<br/>📌 Đăng ký kênh ngay hôm nay để cập nhật thêm nhiều mẹo bảo mật, thủ thuật Internet, và kỹ năng sống số mỗi tuần!<br/>▶️ Xem ngay video mới: 👀 Đọc Tin Nhắn Không Bị Lộ Đã Xem - Read Messages Without Being Seen! by NMQ ALEXANDER<br/>#AnToànInternet #XemTinẨnDanh #MessengerHacks #OnlinePrivacy #CyberSecurity #nmqalexander #nmq",
+                "keyword": "xem tin nhắn không hiện đã xem,cách đọc tin nhắn mà không bị lộ,đọc tin nhắn messenger ẩn danh,mẹo bảo mật tin nhắn,mẹo bảo mật internet,cách ẩn đã xem trên messenger,không hiện đã xem facebook,read messages without being seen,how to read messenger messages secretly,hide seen status messenger,read facebook messages secretly,view messages anonymously,privacy tips for messenger,online privacy hacks,stay hidden online,nmq alexander,nmq,nmqalexander",
+                "thumbnail": "FFkBTbAGncY",
+                "link": "https://i.ytimg.com/vi/FFkBTbAGncY/hq720.jpg"
+            },
+            {
+                "category": "",
+                "title": "🔥 Test Tay Cầm Chuẩn Từng Milimet! - Controller Test Like a Pro! 🎮 || NMQ ALEXANDER",
+                "description": "#TestTayCầm #ControllerTest #KiểmTraTayCầm #GamingTips #GameController<br/>🎮 Bạn nghi ngờ tay cầm có vấn đề? Cần test nhanh và chuẩn xác?<br/>Trong video này, mình sẽ hướng dẫn bạn cách test tay cầm chơi game từ A–Z, cực kỳ đơn giản mà ai cũng làm được! 🔥<br/>✅ Test analog, nút bấm, độ nhạy, lỗi drift chi tiết từng bước!<br/>✅ Hướng dẫn áp dụng cho mọi loại tay cầm: Xbox, PlayStation, PC, Mobile.<br/>👉 Đảm bảo tay cầm mượt mà trước khi bước vào trận chiến!<br/>🔔 Đăng ký kênh để cập nhật thêm nhiều mẹo hay cho game thủ nhé!<br/>🔥 Test Tay Cầm Chuẩn Từng Milimet! - Controller Test Like a Pro! 🎮 || NMQ ALEXANDER<br/>#GamingGear #ControllerDriftFix #GamepadTest #GamingSetup #FixController #nmqalexander #nmq",
+                "keyword": "cách test tay cầm,test tay cầm chơi game,kiểm tra tay cầm xbox,kiểm tra tay cầm ps4,cách test analog tay cầm,sửa lỗi drift tay cầm,mẹo kiểm tra tay cầm,cách test gamepad,test tay cầm trên máy tính,hướng dẫn test tay cầm,how to test controller,controller test guide,check xbox controller,test ps4 controller,fix analog drift,gamepad testing tips,check controller buttons,test controller sensitivity,gaming controller check,nmq alexander,nmq,nmqalexander",
+                "thumbnail": "https://i.ytimg.com/vi/o6jHrSfGtTk/hq720.jpg",
+                "link": "o6jHrSfGtTk"
+            },
+            {
+                "category": "Mẹo windows cực đỉnh",
+                "title": "🔋 Pin Máy Bạn Đã Chai Bao Nhiêu? - How to Check Battery Wear Level Easily! || NMQ ALEXANDER",
+                "description": "#BatteryCare #BatteryHealth #BatteryTest #KiểmTraPin #ĐộChaiPin #BatteryHealth #PinĐiệnThoại #PinLaptop<br/><br/>🔋 Bạn có biết pin của mình đang bị chai bao nhiêu % không?<br/>Trong video này, mình sẽ hướng dẫn bạn cách kiểm tra độ chai pin điện thoại và laptop cực kỳ dễ dàng! 🚀<br/>✅ Xem nhanh mức độ chai pin chỉ với vài bước.<br/>✅ Áp dụng cho cả Android, iPhone và máy tính Windows.<br/><br/>👉 Kiểm tra pin định kỳ để bảo vệ thiết bị và tối ưu hiệu suất nhé!<br/>🔔 Đăng ký kênh để đón thêm nhiều mẹo công nghệ cực hay!<br/><br/>🔋 Pin Máy Bạn Đã Chai Bao Nhiêu? - How to Check Battery Wear Level Easily! || NMQ ALEXANDER<br/>#BatteryTest #CheckBatteryHealth #FixBatteryIssues #BatteryCare #OptimizeBattery #nmqalexander #nmq",
+                "keyword": "cách kiểm tra độ chai pin,test độ chai pin iphone,cách kiểm tra pin laptop,phần mềm kiểm tra độ chai pin,cách xem pin còn tốt không,kiểm tra sức khỏe pin điện thoại,kiểm tra pin chai nhanh nhất,mẹo kiểm tra pin,how to check battery health,battery wear level test,check phone battery health,check laptop battery wear,test iphone battery health,battery wear test app,optimize battery performance,phone battery care tips,nmq alexander,nmq,nmqalexander",
+                "thumbnail": "https://i.ytimg.com/vi/Hiu6f7LEGQA/hq720.jpg",
+                "link": "Hiu6f7LEGQA"
+            },
+            {
+                "category": "Mẹo windows cực đỉnh",
+                "title": "🔒 Bảo Mật Dữ Liệu Bằng Cách Ẩn Ổ Đĩa! - Secure Your Files by Hiding Drives! || NMQ ALEXANDER",
+                "description": "#TechTips #WindowsTips #DataPrivacy #ẨnỔĐĩa #GiấuPhânVùng #HideDrive #SecureYourData #AnToànDữLiệu<br/>🖥️ Bạn muốn ẩn ổ đĩa hoặc giấu phân vùng quan trọng trên máy tính?<br/>Trong video này, mình sẽ hướng dẫn bạn cách ẩn ổ đĩa cực kỳ đơn giản mà không cần phần mềm bên ngoài! 🔥<br/>✅ Giấu dữ liệu nhạy cảm an toàn tuyệt đối.<br/>✅ Hướng dẫn chi tiết cho cả Windows 10, Windows 11.<br/>👉 Bảo vệ dữ liệu cá nhân chỉ trong vài bước cực nhanh!<br/>🔔 Đừng quên đăng ký kênh để nhận thêm nhiều mẹo bảo mật và tối ưu máy tính nhé!<br/>🔒 Bảo Mật Dữ Liệu Bằng Cách Ẩn Ổ Đĩa! - Secure Your Files by Hiding Drives! || NMQ ALEXANDER<br/>#WindowsTips #DataPrivacy #PartitionHide #DiskManagement #TechTips #nmqalexander #nmq",
+                "keyword": "cách ẩn ổ đĩa,ẩn phân vùng máy tính,giấu ổ đĩa windows,cách giấu ổ đĩa trên máy tính,cách ẩn phân vùng win 10,cách ẩn phân vùng win 11,mẹo giấu dữ liệu máy tính,cách bảo mật ổ đĩa,phần mềm ẩn phân vùng,hướng dẫn ẩn ổ đĩa an toàn,how to hide drive,hide partition windows,hide disk drive,secure your partition,hide drives on windows 10,hide drives on windows 11,protect your disk data,windows drive management,disk security tips,nmq alexander,nmq,nmqalexander",
+                "thumbnail": "https://i.ytimg.com/vi/VU9dI85HFpI/hq720.jpg",
+                "link": "VU9dI85HFpI"
             }
         ]
     }
