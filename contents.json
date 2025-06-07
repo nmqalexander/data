@@ -1,6 +1,7 @@
 {
-    "category":["test1","test2"],
+    "categorys":["test1","test2"],
     "contents":{
+        "category":"test1",
         "title":"test1",
         "descripton":"test1",
         "keywords":"test1",
